@@ -1,3 +1,26 @@
+## nmea_hardware_interface (foxy) - 0.0.2-1
+
+The packages in the `nmea_hardware_interface` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --ros-distro foxy nmea_hardware_interface` on `Fri, 11 Feb 2022 12:11:23 -0000`
+
+The `nmea_hardware_interface` package was released.
+
+Version of package(s) in repository `nmea_hardware_interface`:
+
+- upstream repository: https://github.com/OUXT-Polaris/nmea_hardware_interface.git
+- release repository: https://github.com/OUXT-Polaris/nmea_hardware_interface-release.git
+- rosdistro version: `0.0.1-1`
+- old version: `0.0.1-1`
+- new version: `0.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## nmea_hardware_interface (rolling) - 0.0.1-1
 
 The packages in the `nmea_hardware_interface` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling nmea_hardware_interface` on `Sat, 01 Jan 2022 03:22:42 -0000`
